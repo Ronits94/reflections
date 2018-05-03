@@ -1,0 +1,22 @@
+1)Compare between working directory and stagged area?
+Ans: just hit git diff
+
+2)Compare between stagged area and working directory  ?
+Ans: git diff --staged
+
+3)Compare between two commit in repository?
+Ans: git diff commitId1 commitId2
+
+4)create branch?
+Ans: git branch (branchName).
+
+5)know on which branch u are working or how many branch are there in repository?
+Ans: git branch (enter).
+
+6)switch to branch?
+Ans: git checkout branchName.
+
+7)How do the diagrams help you visualize the branch structure?
+Ans: If we Draw a diagram it will help us  to see overflow of our structure
+     so that we can create a new branch and checkout and commit on that
+     without conflict on master branch
